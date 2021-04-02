@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 3ca323a1d9f32d3429db4438698298a0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - frontLeftWheelCollider: {instanceID: 0}
+  - frontRightWheelCollider: {instanceID: 0}
+  - rearLeftWheelCollider: {instanceID: 0}
+  - rearRightWheelCollider: {instanceID: 0}
+  - frontLeftWheel: {fileID: 919132149155446097, guid: 0da589c33a714ba4b9bee789e83f636f,
+      type: 3}
+  - frontRightWheeTransform: {instanceID: 0}
+  - rearLeftWheelTransform: {instanceID: 0}
+  - rearRightWheelTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
